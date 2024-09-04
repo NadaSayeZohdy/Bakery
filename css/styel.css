@@ -1,0 +1,181 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.home{
+    background-image: url(../images/drew-coffman-1872.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+    overflow: auto;
+}
+.home-cap{
+    text-align: center;
+    color: #fff;
+    margin-top: 50px;
+}
+.nav-logo{
+    width: 10%;
+    float: left;
+}
+.nav-logo img{
+    width: 100%;
+}
+.nav-links ul{
+    float: right;
+
+}
+.nav-links ul li{
+    list-style-type: none;
+    float: left;
+    padding: 20px;
+
+}
+.nav-links ul li a{
+    color:#fff;
+    text-decoration: none;
+
+}
+.clr{
+    clear: both;
+}
+
+.home-cap p{
+    font-size: 25px;
+}
+.home-cap h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.home-cap .btn1{
+    padding: 20px;
+    background-color: rgb(170, 117, 47);
+    border: 2px solid rgb(170, 117, 47);
+}
+.home-cap .btn2{
+    padding: 20px;
+    background-color: transparent;
+    border: 2px solid #fff;
+    
+}
+
+/*NEW CLASS*/
+
+.about{
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+}
+.about-img{
+    width: 40%;
+    float: left;
+}
+.about-img img{
+    width: 100%;
+}
+.about-cap{
+    width: 50%;
+    float: right;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 25px;
+    color: rgb(6, 70, 70);
+    margin-right: 20px;
+}
+.about-cap h2{
+    color: #000;
+}
+.about-cap p{
+    margin: 30px 0px;
+}
+.about-list{
+    text-align: left;
+
+}
+.about-list ul li{
+    padding: 15px;
+}
+
+/*NEW CLASS*/
+
+.offer{
+     width: 90%;
+     margin: auto;
+}
+.offer-cap{
+     width: 50%;
+     float: left;
+     font-size: 20px;
+     text-align: center;
+     margin: 100px 40px;
+     color: rgb(6, 70, 70);
+     margin-left: 25px;
+}
+.offer-cap h2{
+    font-size: 40px;
+    color: #000;
+}
+.offer-cap p{
+    margin: 30px 0;
+}
+.offer-img{
+     width: 40%;
+     float: right;
+}
+.offer-img img{
+    width: 100%;
+}
+
+/*NEW CLASS*/
+
+.gallary{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    margin-top: 60px;
+}
+.meal{
+    width: 33%;
+    text-align: center;
+    float: left;
+}
+.meal img{
+    width: 100%;
+}
+.inner{
+    padding: 30px;
+}
+.meal p{
+    margin: 10px 0;
+    color: rgb(6, 70, 70);
+}
+
+/*NEW CLASS*/
+
+.blog{
+    width: 90%;
+    margin: auto;
+}
+.blog-map{
+    width: 40%;
+    float: right;
+    margin-top: 45px;
+}
+.blog-cap{
+    width: 50%;
+    float: left;
+    text-align: center;
+    margin-top: 45px;
+}
+.blog-cap p{
+    margin: 10px 0;
+    color: rgb(6, 70, 70);
+}
+
+/*NEW CLASS*/
+
+.contact{
+    background-color: rgb(73, 73, 73);
+}
+.contact-row{
+    width: 22.5%;
+    float: left;
+}
